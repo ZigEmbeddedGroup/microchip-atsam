@@ -1,7 +1,3 @@
-# microchip-atsam
+= WE MOVED BACK TO A MONOREPO HERE: https://github.com/ZigEmbeddedGroup/microzig
 
-HALs and register definitions for Microchip ATSAM devices
-
-## What version of Zig to use
-
-0.11.0
+== Future contributions go the main repository
